@@ -40,7 +40,7 @@ public class ListMain {
         list.addTail(4); // Tambahkan elemen 4 di akhir list
         list.addTail(5); // Tambahkan elemen 5 di akhir list
         list.addTail(7); // Tambahkan elemen 7 di akhir list
-
+        
         System.out.println("Elemen: ");
         list.displayList(); // Tampilkan elemen list
         
