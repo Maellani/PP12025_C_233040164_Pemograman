@@ -9,7 +9,7 @@ public class ListMain {
 		list.addHead(4); // Tambah elemen 4 di awal list
 		list.addHead(5); // Tambah elemen 5 di awal list
 		
-		//latihan Test-2
+		//Test-2
         list.addHead(3); // Tambah elemen 3 di awal list
         list.addHead(4); // Tambah elemen 4 di awal list
         list.addHead(5); // Tambah elemen 5 di awal list
